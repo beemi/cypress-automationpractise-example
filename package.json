@@ -1,0 +1,28 @@
+{
+  "name": "cypress-automationpractice-test",
+  "version": "1.0.0",
+  "description": "Cypress automationpractice technical test",
+  "main": "",
+  "scripts": {
+    "test": "node_modules/.bin/cypress open",
+    "test:search": "node_modules/.bin/cypress run --browser chrome --spec cypress/integration/*.spec.js"
+  },
+  "keywords": [
+    "testing",
+    "cypress",
+    "ui",
+    "dom",
+    "integration",
+    "functional",
+    "end-to-end",
+    "e2e",
+    "Techical test"
+  ],
+  "author": {
+    "name": "Usha"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  }
+}
