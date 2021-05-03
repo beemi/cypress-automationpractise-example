@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "node_modules/.bin/cypress open",
-    "test:search": "node_modules/.bin/cypress run --browser chrome --spec cypress/integration/*.spec.js"
+    "test:search:mac": "node_modules/.bin/cypress run --browser chrome --spec cypress/integration/*.spec.js",
+    "test:search:windows": "node_modules//.bin//cypress run --browser chrome --spec cypress/integration/*.spec.js"
   },
   "keywords": [
     "testing",
