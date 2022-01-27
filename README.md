@@ -63,4 +63,4 @@ Run all regression tests against Chrome browser
 
 ## Contacts
 
-Owner: [Usha](Usha)
+Owner: [beemiraja@gmail.com](beemiraja@gmail.com)
